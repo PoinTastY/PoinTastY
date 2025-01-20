@@ -53,10 +53,12 @@ https://github.com/PoinTastY/ContpaqSDK-API
 to prove my python skills, here is the repo where i have some proyects that i made for my school:
 https://github.com/PoinTastY/Ingenieria-de-Software-programs
 
-and also, my viola projects, works with rasa opensource, and has actions with python:
+and also, my viola project, works with rasa opensource, and has actions with python:
 https://github.com/PoinTastY/VIOLA
 
 at the begining, there is my wakatime profile, but i just started using it, so the badge began from jun 2024
 
-One last thing, i've worked, and understand some other technologies, but this is what i can honestly work with and have a good domain of it.
+
+https://www.freecodecamp.org/certification/CallMeMulan/foundational-c-sharp-with-microsoft
+my c# badje
 
